@@ -4,7 +4,12 @@
 
 Click the picture below to see a gif of the app! 
 
-[![musicplayer](https://user-images.githubusercontent.com/77229281/128617090-50e9b20e-a8d3-4153-a5a4-6f2557378e7e.png)](https://j.gifs.com/gppNZG.gif)
+[![musicplayer](https://user-images.githubusercontent.com/77229281/128632884-a0f1c776-8c49-4704-8130-7df35411e33e.png)
+](https://j.gifs.com/gppNZG.gif)
+
+## Live Link
+
+[live link](https://kotalilyy.github.io/music-player/)
 
 ## Contributions
 
