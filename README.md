@@ -2,7 +2,7 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Click the picture below to see an animated gif of the app! 
+Click the picture below to see a gif of the app! 
 
 [![musicplayer](https://user-images.githubusercontent.com/77229281/128617090-50e9b20e-a8d3-4153-a5a4-6f2557378e7e.png)](https://j.gifs.com/gppNZG.gif)
 
