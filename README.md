@@ -11,11 +11,13 @@ Click the picture below to see a gif of the app!
 
 [live link](https://kotalilyy.github.io/music-player/)
 
-## Contributions
+## Credits
 
 Create this app by following this [tutorial](https://www.youtube.com/watch?v=QTHRWGn_sJw) by @[bradtraversy](https://github.com/bradtraversy)
 
 Shoutout to [Flaticon](https://www.flaticon.com/) for the images.
+
+## Contributions
 
 Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
