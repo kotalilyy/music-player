@@ -4,8 +4,7 @@
 
 Click the picture below to see a gif of the app! 
 
-[![musicplayer](https://user-images.githubusercontent.com/77229281/128632884-a0f1c776-8c49-4704-8130-7df35411e33e.png)
-](https://j.gifs.com/w00wjX.gif)
+[![music1](https://user-images.githubusercontent.com/77229281/130309985-93818cc3-1227-4ce0-9fb6-9e8eabbfcd61.png)](https://j.gifs.com/w00wjX.gif)
 
 ## Live Link
 
