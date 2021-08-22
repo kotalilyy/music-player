@@ -12,7 +12,9 @@ Click the picture below to see a gif of the app!
 
 ## Credits
 
-Create this app by following this [tutorial](https://www.youtube.com/watch?v=QTHRWGn_sJw) by @[bradtraversy](https://github.com/bradtraversy)
+Click [here](https://www.youtube.com/watch?v=QTHRWGn_sJw) to create this music player.
+
+Thanks @[bradtraversy](https://github.com/bradtraversy)
 
 Shoutout to [Flaticon](https://www.flaticon.com/) for the images.
 
